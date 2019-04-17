@@ -11,7 +11,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://116.236.144.2:17321/api/download/ipa/v0.0.0.2/HiveNMSApp_v0.0.0.2.ipa</string>
+            <string>http://116.236.144.3:17321/api/download/ipa/v0.0.0.2/HiveNMSApp_v0.0.0.2.ipa</string>
           </dict>
           <dict>
             <key>kind</key>
